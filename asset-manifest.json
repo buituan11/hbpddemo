@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hbpddemo/static/css/main.578a2782.chunk.css",
+    "main.js": "/hbpddemo/static/js/main.e1956e2c.chunk.js",
+    "main.js.map": "/hbpddemo/static/js/main.e1956e2c.chunk.js.map",
+    "runtime~main.js": "/hbpddemo/static/js/runtime~main.52643c5f.js",
+    "runtime~main.js.map": "/hbpddemo/static/js/runtime~main.52643c5f.js.map",
+    "static/js/2.90e94cbd.chunk.js": "/hbpddemo/static/js/2.90e94cbd.chunk.js",
+    "static/js/2.90e94cbd.chunk.js.map": "/hbpddemo/static/js/2.90e94cbd.chunk.js.map",
+    "index.html": "/hbpddemo/index.html",
+    "precache-manifest.f2a74289d20601cb438b1e98fd72843d.js": "/hbpddemo/precache-manifest.f2a74289d20601cb438b1e98fd72843d.js",
+    "service-worker.js": "/hbpddemo/service-worker.js",
+    "static/css/main.578a2782.chunk.css.map": "/hbpddemo/static/css/main.578a2782.chunk.css.map"
+  }
+}
